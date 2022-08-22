@@ -21,9 +21,13 @@ This next graph focuses on checkout times by gender. It is apparent that more ma
 
 Next, we see a visual of trips by gender, with a focus by weekday and by hour. Again, the pattern is similar to our previous visualization relating to checkout times by weekday by hour. We can see that most checkouts take place Monday through Friday from 7am to 9am and 5pm to 7pm. Now we can also notice the fact that most users during these times are male.  
 
-
+<img width="898" alt="Screen Shot 2022-08-22 at 3 22 34 PM" src="https://user-images.githubusercontent.com/105089651/186005878-bd57271c-e2b8-48d1-a6cb-0f62ef6e6699.png">
 
 This visualization displays user trips by gender, weekday, and user type. Based on the graph, most users are male subscribers. The most popular days for male subscribers are Thursday and Friday. 
+
+
+
+Lastly, the added visualization is the top starting and ending locations for riders. Both graphs follow a similar pattern. They have almost the same popularity in starting and ending locations. Most of these take place on the west part of the map, to almost the center.  
 
 ## 3. Summary
 
